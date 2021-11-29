@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "The Royal Sydney Golf Club",
+    "suburb": "Rose Bay, NSW",
+    "attemptCount": 11,
+    "closestDistanceToHole": 2
+  },
+  {
+    "id": 1,
+    "name": "Moore Park Golf Course",
+    "suburb": "Moore Park, NSW",
+    "attemptCount": 0
+  },
+  {
+    "id": 2,
+    "name": "Bonnie Doon Golf Club",
+    "suburb": "Pagewood, NSW",
+    "attemptCount": 1,
+    "closestDistanceToHole": 2
+  }
+]
